@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-18T15:32:33.269Z</updated>
+  <updated>2018-11-23T04:51:09.811Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一天使用双拼</title>
+    <link href="http://yoursite.com/2018/11/23/%E7%AC%AC%E4%B8%80%E5%A4%A9%E4%BD%BF%E7%94%A8%E5%8F%8C%E6%8B%BC/"/>
+    <id>http://yoursite.com/2018/11/23/第一天使用双拼/</id>
+    <published>2018-11-23T04:51:09.000Z</published>
+    <updated>2018-11-23T04:51:09.811Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
