@@ -131,18 +131,18 @@
 
 
 
-  <meta name="description" content="hexo-blog-encrypt是一个加密hexo的插件，至于安不安全倒是不敢说。 安装1npm install hexo-blog-encrypt --save 快速开始 首先在根目录下的’_config.yml’中启用该插件： 1234#Security##encrypt:     enable: true  然后在你的文章头部加上对应的字段，如password,abstract,messa">
+  <meta name="description" content="hexo-blog-encrypt是一个加密hexo的插件，至于安不安全倒是不敢说。 安装1npm install hexo-blog-encrypt --save 快速开始 首先在根目录下的_config.yml中启用该插件： 1234#Security##encrypt:     enable: true  然后在你的文章头部加上对应的字段，如password,abstract,message">
 <meta name="keywords" content="Hexo">
 <meta property="og:type" content="article">
 <meta property="og:title" content="hexo-blog-encrypt插件的使用">
 <meta property="og:url" content="http://yunzimo.github.io/posts/57966/index.html">
 <meta property="og:site_name" content="一年好景君需记">
-<meta property="og:description" content="hexo-blog-encrypt是一个加密hexo的插件，至于安不安全倒是不敢说。 安装1npm install hexo-blog-encrypt --save 快速开始 首先在根目录下的’_config.yml’中启用该插件： 1234#Security##encrypt:     enable: true  然后在你的文章头部加上对应的字段，如password,abstract,messa">
+<meta property="og:description" content="hexo-blog-encrypt是一个加密hexo的插件，至于安不安全倒是不敢说。 安装1npm install hexo-blog-encrypt --save 快速开始 首先在根目录下的_config.yml中启用该插件： 1234#Security##encrypt:     enable: true  然后在你的文章头部加上对应的字段，如password,abstract,message">
 <meta property="og:locale" content="default">
-<meta property="og:updated_time" content="2018-11-23T08:07:33.411Z">
+<meta property="og:updated_time" content="2018-11-23T08:09:40.149Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="hexo-blog-encrypt插件的使用">
-<meta name="twitter:description" content="hexo-blog-encrypt是一个加密hexo的插件，至于安不安全倒是不敢说。 安装1npm install hexo-blog-encrypt --save 快速开始 首先在根目录下的’_config.yml’中启用该插件： 1234#Security##encrypt:     enable: true  然后在你的文章头部加上对应的字段，如password,abstract,messa">
+<meta name="twitter:description" content="hexo-blog-encrypt是一个加密hexo的插件，至于安不安全倒是不敢说。 安装1npm install hexo-blog-encrypt --save 快速开始 首先在根目录下的_config.yml中启用该插件： 1234#Security##encrypt:     enable: true  然后在你的文章头部加上对应的字段，如password,abstract,message">
 
 
 
@@ -484,7 +484,7 @@
                 
               
 
-              <time title="Created: 2018-11-23 14:28:16 / Modified: 16:07:33" itemprop="dateCreated datePublished" datetime="2018-11-23T14:28:16+08:00">2018-11-23</time>
+              <time title="Created: 2018-11-23 14:28:16 / Modified: 16:09:40" itemprop="dateCreated datePublished" datetime="2018-11-23T14:28:16+08:00">2018-11-23</time>
             
 
             
@@ -564,7 +564,7 @@
         <p>hexo-blog-encrypt是一个加密hexo的插件，至于安不安全倒是不敢说。</p>
 <h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-blog-encrypt --save</span><br></pre></td></tr></table></figure>
 <h3 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h3><ul>
-<li><p>首先在根目录下的’_config.yml’中启用该插件：</p>
+<li><p>首先在根目录下的<strong>_config.yml</strong>中启用该插件：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">#Security</span><br><span class="line">##</span><br><span class="line">encrypt:</span><br><span class="line">     enable: true</span><br></pre></td></tr></table></figure>
 </li>
 <li><p>然后在你的文章头部加上对应的字段，如password,abstract,message</p>
@@ -575,7 +575,7 @@
 </li>
 <li><p>使用hexo clean&amp;&amp;hexo g -d来查看结果。<br>###修改加密模板</p>
 </li>
-<li><p>如果你对默认的主题不满意，可以配置在_config.yml中。</p>
+<li><p>如果你对默认的主题不满意，可以配置在<strong>_config.yml</strong>中。</p>
 <figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"># Security</span><br><span class="line">##</span><br><span class="line">encrypt:</span><br><span class="line">    enable: <span class="literal">true</span></span><br><span class="line">    default_abstract: the content has been encrypted, enter the password to read.&lt;/br&gt;</span><br><span class="line">    default_message: Please enter the password to read.</span><br><span class="line">    default_template:</span><br><span class="line">                    &lt;script src=<span class="string">"//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"</span>&gt;&lt;/script&gt;</span><br><span class="line">                    &lt;div id=<span class="string">"hbe-security"</span>&gt;</span><br><span class="line">                        &lt;div class=<span class="string">"input-container"</span>&gt;</span><br><span class="line">                            &lt;input type=<span class="string">"password"</span> class=<span class="string">"form-control"</span> id=<span class="string">"pass"</span> placeholder=<span class="string">" &#123;&#123;message&#125;&#125; "</span> /&gt;</span><br><span class="line">                            &lt;label <span class="keyword">for</span>=<span class="string">"pass"</span>&gt; &#123;&#123;message&#125;&#125; &lt;/label&gt;</span><br><span class="line">                            &lt;div class=<span class="string">"bottom-line"</span>&gt;&lt;/div&gt;</span><br><span class="line">                        &lt;/div&gt;</span><br><span class="line">                    &lt;/div&gt;</span><br><span class="line">                    &lt;div id=<span class="string">"encrypt-blog"</span> style=<span class="string">"display:none"</span>&gt;</span><br><span class="line">                        &#123;&#123;content&#125;&#125;</span><br><span class="line">                    &lt;/div&gt;</span><br></pre></td></tr></table></figure>
 </li>
 <li><p>可以看见，和上面的配置文件对比来看，多了<strong>default_template</strong>和<strong>default_abstract</strong>和<strong>default_message</strong>配置项</p>
@@ -594,7 +594,7 @@
 <li><p>如果你希望对某一篇特定的文章做特殊处理，这有两种方法可以达到这个效果, 在博客的源文件添加 template 配置:</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: hello world</span><br><span class="line">date: 2016-03-30 21:18:02</span><br><span class="line">tags:</span><br><span class="line">    - fdsfadsfa</span><br><span class="line">    - fdsafsdaf</span><br><span class="line">password: Mike</span><br><span class="line">abstract: Welcome to my blog, enter password to read.</span><br><span class="line">message: Welcome to my blog, enter password to read.</span><br><span class="line">template:</span><br><span class="line">        &lt;script src=&quot;//cdn.bootcss.com/jquery/1.11.3/jquery.min.js&quot;&gt;&lt;/script&gt;</span><br><span class="line">        &lt;div id=&quot;hbe-security&quot;&gt;</span><br><span class="line">            &lt;div class=&quot;input-container&quot;&gt;</span><br><span class="line">                &lt;input type=&quot;password&quot; class=&quot;form-control&quot; id=&quot;pass&quot; placeholder=&quot; &#123;&#123;message&#125;&#125; &quot; /&gt;</span><br><span class="line">                &lt;label for=&quot;pass&quot;&gt; &#123;&#123;message&#125;&#125; &lt;/label&gt;</span><br><span class="line">                &lt;div class=&quot;bottom-line&quot;&gt;&lt;/div&gt;</span><br><span class="line">            &lt;/div&gt;</span><br><span class="line">        &lt;/div&gt;</span><br><span class="line">        &lt;div id=&quot;encrypt-blog&quot; style=&quot;display:none&quot;&gt;</span><br><span class="line">            &#123;&#123;content&#125;&#125;</span><br><span class="line">        &lt;/div&gt;</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
 </li>
-<li><p>当然每新建一篇文章添加这些信息实在是太过麻烦，编辑‘根目录’下scaffolds/post.md，这相当于一个模板，每次新建是都会出现就省了麻烦。</p>
+<li><p>当然每新建一篇文章添加这些信息实在是太过麻烦，编辑<strong>根目录</strong>下scaffolds/post.md，这相当于一个模板，每次新建是都会出现就省了麻烦。</p>
 </li>
 </ul>
 
