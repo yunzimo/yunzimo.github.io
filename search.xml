@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[win10耳机插入没有声音]]></title>
+    <url>%2Fposts%2F22500%2F</url>
+    <content type="text"><![CDATA[今天玩win10的时候突然发现插上耳机没有声音了，骂完win10还是要解决啊１．打开控制面板，找到Realtek高清晰音频管理器 ２. 点击小文件夹出现文中弹窗，勾选画圈的地方３．然后你每次插耳机都会出现这个东西啦，至少耳机能用了呀]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>win10</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2Fposts%2F16107%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
@@ -19,7 +30,7 @@
   <entry>
     <title><![CDATA[第一天使用双拼]]></title>
     <url>%2Fposts%2F62793%2F</url>
-    <content type="text"><![CDATA[「密码不能告诉你,但是很好猜」 Incorrect Password! No content to display! U2FsdGVkX1/Hm3I7yeWVt1+kQi5g+RcSSlYYo8AoBMqcsJb24kZnJiZ7S848xskkATAIzR9xaxnR/oi1xX4V42PGMFoLBOB+usiUxlyhPeUpscWuiKQgBmyaMtaFJylioZ4T4eAXK/rMwv7JJLyfOnehMcH51BUh30dPC3ie7hBEV2n5syKNeT2H5w8TolUtKNVkGLB/AWkVFsCTxsTiLDK6UC9sbSPPb/MNIFVgLkllWxlT35WUc76aRUs/oRuYECUPSDARLv2IYbeUIqKc2UlTQLinRWAvdlLtnuSM9xMPXQSW60hHts/LG2iBW+IRC147sn1jQJrLSAFs2Fqs0MAb3+r5vWJM4llKidzr+GXOm1G5f2rmxVAO0RI8H+Q4PwQqPsnJPaTnmgQ6RWU8M7XSgmRmVqqGSZrhmPdM1KeRfbgywsfAqXGVItMjotnTIT2xvhCvPVwiWb7LdoXAFWwhp+rS6zwRqmHhD+J2BAvHgj9slm1pyeslf4Exuju9+g1E42zo9cqVTem4vG+FR0FEnVNKrgBfXwd2VioC+gRO3qVOpJfa6+5Sochfjv9TTIWPccdSYpRVygsI2w8d5gZEZWqsnabTZppgqw04syRdq1prvuXaYgisvcHgH6c0Sgnldm8sGKCCWhkvBJhO3CPw0Ctuvlk74MI6soV3xCZAH6mFj0ciauW8yxEX/IeUrT3O80oV9cUY9Hb6/uDi+/wZrRfVny6zFOaz1wFhA1AnAEU4xvdimJMRJluWfAvMLJBhY96qcspcNbWXmPLd5mfAd4+fwCoc8gQ++1xuB3X+S5EbDmvqNT2DRb7tUuZ6+T6lW8QrEOXPhb/w/VvXgJ4gv3WmIq3rJ0LC4BKuL13eKkVyHvQPjQa/Muj4GeTbeQ08D7g+JaSmZ+qjIUJHFcdu4X/VSbk0IV/LLlNasMuNQSHZyrqD+0Zcxm9MwjU32kKsXXyYLUpdq7PX4Ri3SxjTlV4uueu820IxQq/f6qeDg0kc27L0r0TyPWNJSAd0oBteIBbz+jvgdTMauPCZX0q0zOiqbn6WuaZEOsEqy+F4VbX07SwwSPXsfpF6sq3CHsk66rQ/HJ35mJJe0Cl9yT9vzovCpra9MmuAaWbq+RESJSjzoa7hJy2T2EQSRvL+]]></content>
+    <content type="text"><![CDATA[「密码不能告诉你,但是很好猜」 Incorrect Password! No content to display! U2FsdGVkX19oHyF8q9PvRG5j6rlhyypkBKSIu1DOpSeUiiE6UN9D38lFQABbKFVD6gcNR7s/7h9SQjnEcTzsvcj/flp5YqSfCvGLYrxN2pKnidjRGv6DZ83TssPViNpPRi/W//+CXxwz3tdP6hfeLHO5JMTNoVkAtcyZ4fwdxwzON8wpoW9OksvxUE37lrf2VlBMz7UPBmFAXvfCeNqCuucUek6pGJrwd0hypvoE5NyfE1FMO65dS5LwPOonxkT7/AprFnrYLwmmgzRjaphztwWW+OlWJmjSHS3iEbbUknBa1aREBg+MMhSnP7AZ2BmUqTl2JzZc+T4Wq8TTDeIYp0LH4+P4jtSVIMGyd8n3ErzXbe3Blh/2uf+mV+Q+I/ACWL6lvNIzIY+2HHRnELW8BuwJhLfpQBdZoytw5y4/O9oPtV4jTPA71JuYchWWo4+7tQzZo1uCuKm55Cn1Wb944wR0o1nN8fSPm7NM5N3KKFXa2dXjwnrRm437d/6W5Q5mECW1Bath+FZMbKecxgXmHxPzWKmprrmBR3eDs9IrSOPiZo9j9nXrhZJgW9y1/3PdUn7T6c1fY8LhYDp1nCryj03oKlRoNfwLsxjotXjz99lOr2EJ3ITxjxUk4lZuuz5r5VXjWGE8qzFZFlMyDgw2QJvws/QE09Bn96wOStEHNglPKxJb7IfJqT37dJ0+1k+Z3RgcySfA+aJ93tYlKjLeqrLabbkSN496MWJ+4Ob8mq9bNiNiW98BoJuGbXz+VeIffVqxuvKZv7dw8uqSZke9rdQo+WHLBMYK5+nrYOj1eUwwcBe7ChFymdFvPPBd6IJdPsP3zz2S8Tsn5Np/Li4mRvxh7c0sZxyYA3N83dW7elh39nf/bzYaQvxecopFvFddBoYqt3Ba7cixsNzcL8Ia8oXLYB6BUjkehUX+ofrajjAE7c3MjbGJ4L5vrfXiJSCxKNqgpXYIby5wDkUHyYHdPFU9GO+9/XBXymth4Eaij3W1FilSaUFkFfoU95oh6XRzZF2Qc6od1LtcxGCTHIRt1zVKdpM/TYMtArDPn6oWVMBNR1jxa6dUIOQZc4iSq3GxhMDZk/p/DPMGKOH3EaxG+NBkmzOL0nBY8Bz0g8qib9QMur6eq0ov6qeTggozpLpX]]></content>
       <categories>
         <category>日志</category>
       </categories>
