@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yunzimo.github.io/"/>
-  <updated>2018-11-25T07:32:48.358Z</updated>
+  <updated>2018-11-25T07:32:56.103Z</updated>
   <id>http://yunzimo.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yunzimo.github.io/posts/3735/"/>
     <id>http://yunzimo.github.io/posts/3735/</id>
     <published>2018-11-25T07:25:17.000Z</published>
-    <updated>2018-11-25T07:32:48.358Z</updated>
+    <updated>2018-11-25T07:32:56.103Z</updated>
     
     <content type="html"><![CDATA[<p>　　虽然hexo支持Markdown语法,但是这种语法打起来也有点累，所以我用的是忆墨笔记。<br>　　忆墨笔记支持Markdown语法，所以用起来也更得心应手一点。当然有一些东西也不是通用的，还是要稍作修改。<br>　　今天想说的是，Hexo里的read more按钮，一般来说可以设置默认显示多少字符，但是这样也会同时显得不灵活，这时候用<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;!--more--&gt;</span><br></pre></td></tr></table></figure></p><p>就可以解决了，他会只显示这一行以上的内容。</p><p>　　</p>]]></content>
     
