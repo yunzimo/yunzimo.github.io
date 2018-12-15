@@ -14,7 +14,7 @@
   <entry>
     <title><![CDATA[deepin PPA]]></title>
     <url>%2Fposts%2F63605%2F</url>
-    <content type="text"><![CDATA[以前我以为Ｄｅｅｐｉｎ不支持ＰＰＡ呢，就很难受，因为很多教程都是根据Ｕｂｕｎｔｕ写的，添加软件源，直接就安装。一开始是因为那篇文章已经记不清了。刚看到官方的教程才来记录下来。 删除PPA源将 /etc/apt/sources.list.d 目录下相应list文件删除即可 启用PPA12345sudo apt-get install python-software-propertiessudo apt-get install software-properties-commonsudo apt-get update]]></content>
+    <content type="text"><![CDATA[以前我以为Ｄｅｅｐｉｎ不支持ＰＰＡ呢，就很难受，因为很多教程都是根据Ｕｂｕｎｔｕ写的，添加软件源，直接就安装。一开始是因为那篇文章已经记不清了。刚看到官方的教程才来记录下来。但是我还没有试过。ｅｍｍ 删除PPA源将 /etc/apt/sources.list.d 目录下相应list文件删除即可 启用PPA12345sudo apt-get install python-software-propertiessudo apt-get install software-properties-commonsudo apt-get update]]></content>
       <categories>
         <category>技术</category>
       </categories>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yunzimo.github.io/"/>
-  <updated>2018-12-15T10:33:40.960Z</updated>
+  <updated>2018-12-15T10:39:31.496Z</updated>
   <id>http://yunzimo.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yunzimo.github.io/posts/1751/"/>
     <id>http://yunzimo.github.io/posts/1751/</id>
     <published>2018-12-15T10:26:07.000Z</published>
-    <updated>2018-12-15T10:33:40.960Z</updated>
+    <updated>2018-12-15T10:39:31.496Z</updated>
     
     <content type="html"><![CDATA[<p>  因为Deepin的各种原因导致有时候编辑博客的时候不能输入中文，试了一些方法，后来放弃了，因为Hexo虽然支持Markdown语法，但是要是自己书写那些语法真是太麻烦了，找一个替代的编辑器也是必要的。<br>　　有一个做的Hexoeditor不知道好用不好用，因为在我的Deepin上面他所描述的功能都没有实现，Windows可以试试，如果功能可用就会非常的方便。<br>　　我选用的是忆墨笔记，支持Markdown实时显示，不收费，很好用，当然有一些语法也不是通用的。</p>]]></content>
     
@@ -46,17 +46,17 @@
     <link href="http://yunzimo.github.io/posts/63605/"/>
     <id>http://yunzimo.github.io/posts/63605/</id>
     <published>2018-12-15T10:21:43.000Z</published>
-    <updated>2018-12-15T10:39:19.284Z</updated>
+    <updated>2018-12-15T12:27:35.553Z</updated>
     
-    <content type="html"><![CDATA[<p>　　以前我以为Ｄｅｅｐｉｎ不支持ＰＰＡ呢，就很难受，因为很多教程都是根据Ｕｂｕｎｔｕ写的，添加软件源，直接就安装。一开始是因为那篇文章已经记不清了。刚看到官方的教程才来记录下来。　　</p><h2 id="删除PPA源"><a href="#删除PPA源" class="headerlink" title="删除PPA源"></a>删除PPA源</h2><p>将 /etc/apt/sources.list.d 目录下相应list文件删除即可</p><h2 id="启用PPA"><a href="#启用PPA" class="headerlink" title="启用PPA"></a>启用PPA</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install python-software-properties</span><br><span class="line"></span><br><span class="line">sudo apt-get install software-properties-common</span><br><span class="line"></span><br><span class="line">sudo apt-get update</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>　　以前我以为Ｄｅｅｐｉｎ不支持ＰＰＡ呢，就很难受，因为很多教程都是根据Ｕｂｕｎｔｕ写的，添加软件源，直接就安装。一开始是因为那篇文章已经记不清了。刚看到官方的教程才来记录下来。但是我还没有试过。ｅｍｍ　　</p><h2 id="删除PPA源"><a href="#删除PPA源" class="headerlink" title="删除PPA源"></a>删除PPA源</h2><p>将 /etc/apt/sources.list.d 目录下相应list文件删除即可</p><h2 id="启用PPA"><a href="#启用PPA" class="headerlink" title="启用PPA"></a>启用PPA</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install python-software-properties</span><br><span class="line"></span><br><span class="line">sudo apt-get install software-properties-common</span><br><span class="line"></span><br><span class="line">sudo apt-get update</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;　　以前我以为Ｄｅｅｐｉｎ不支持ＰＰＡ呢，就很难受，因为很多教程都是根据Ｕｂｕｎｔｕ写的，添加软件源，直接就安装。一开始是因为那篇文章已经记不清了。刚看到官方的教程才来记录下来。
+        &lt;p&gt;　　以前我以为Ｄｅｅｐｉｎ不支持ＰＰＡ呢，就很难受，因为很多教程都是根据Ｕｂｕｎｔｕ写的，添加软件源，直接就安装。一开始是因为那篇文章已经记不清了。刚看到官方的教程才来记录下来。但是我还没有试过。ｅｍｍ
 　　&lt;/p&gt;
-&lt;h2 id=&quot;删除PPA源&quot;&gt;&lt;a href=&quot;#删除PPA源&quot; class=
+&lt;h2 id=&quot;删除PPA源&quot;&gt;&lt;a href=&quot;#删除
       
     
     </summary>
