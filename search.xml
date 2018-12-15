@@ -5,7 +5,7 @@
     <url>%2Fposts%2F1751%2F</url>
     <content type="text"><![CDATA[因为Deepin的各种原因导致有时候编辑博客的时候不能输入中文，试了一些方法，后来放弃了，因为Hexo虽然支持Markdown语法，但是要是自己书写那些语法真是太麻烦了，找一个替代的编辑器也是必要的。 有一个做的Hexoeditor不知道好用不好用，因为在我的Deepin上面他所描述的功能都没有实现，Windows可以试试，如果功能可用就会非常的方便。 我选用的是忆墨笔记，支持Markdown实时显示，不收费，很好用，当然有一些语法也不是通用的。]]></content>
       <categories>
-        <category>-　技术</category>
+        <category>s-　技术</category>
       </categories>
       <tags>
         <tag>Deepin</tag>
