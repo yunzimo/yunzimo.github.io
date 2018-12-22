@@ -2,11 +2,6 @@
 <search>
   <entry>
     <title><![CDATA[hexo上传github不用输密码]]></title>
-    <url>%2Fposts%2F56343%2F</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[hexo上传github不用输密码]]></title>
     <url>%2Fposts%2F56344%2F</url>
     <content type="text"><![CDATA[方法一 方法二 我用的是方法二最后，直接改的rope，我不知道什么原理，可能是我已经设置sshkey了吧，whatever.我也懒得自己重写一遍了。]]></content>
       <categories>
@@ -160,9 +155,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[2]]></title>
+    <title><![CDATA[3]]></title>
     <url>%2Fposts%2F25490%2F</url>
-    <content type="text"><![CDATA[十个人欺负一个人是欺凌。 一百个人欺负一个人是欺凌。 一万个人欺负一个人。是正义…]]></content>
+    <content type="text"><![CDATA[人间惆怅客，互不投机半句多.]]></content>
       <categories>
         <category>收藏</category>
       </categories>
@@ -171,9 +166,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[3]]></title>
+    <title><![CDATA[2]]></title>
     <url>%2Fposts%2F25490%2F</url>
-    <content type="text"><![CDATA[人间惆怅客，互不投机半句多.]]></content>
+    <content type="text"><![CDATA[十个人欺负一个人是欺凌。 一百个人欺负一个人是欺凌。 一万个人欺负一个人。是正义…]]></content>
       <categories>
         <category>收藏</category>
       </categories>

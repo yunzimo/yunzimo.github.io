@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yunzimo.github.io/"/>
-  <updated>2018-12-22T15:43:51.119Z</updated>
+  <updated>2018-12-22T15:43:56.631Z</updated>
   <id>http://yunzimo.github.io/</id>
   
   <author>
@@ -18,24 +18,10 @@
   
   <entry>
     <title>hexo上传github不用输密码</title>
-    <link href="http://yunzimo.github.io/posts/56343/"/>
-    <id>http://yunzimo.github.io/posts/56343/</id>
-    <published>2018-12-22T15:43:51.000Z</published>
-    <updated>2018-12-22T15:43:51.119Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hexo上传github不用输密码</title>
     <link href="http://yunzimo.github.io/posts/56344/"/>
     <id>http://yunzimo.github.io/posts/56344/</id>
     <published>2018-12-22T15:40:27.000Z</published>
-    <updated>2018-12-22T15:43:46.611Z</updated>
+    <updated>2018-12-22T15:43:56.631Z</updated>
     
     <content type="html"><![CDATA[<p>  <span class="exturl" data-url="aHR0cDovL2xhc3R3YXJtdGgud2luLzIwMTcvMDQvMTkvbm8tcGFzc3dvcmQv" title="target=_blank">方法一<i class="fa fa-external-link"></i></span><br>  <span class="exturl" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2hoZ2dnZ2dnL2FydGljbGUvZGV0YWlscy83Nzg1MzY2NQ==" title="target=_blank">方法二<i class="fa fa-external-link"></i></span><br>  我用的是方法二最后，直接改的rope，我不知道什么原理，可能是我已经设置sshkey了吧，whatever.我也懒得自己重写一遍了。</p>]]></content>
     
@@ -373,19 +359,19 @@
   </entry>
   
   <entry>
-    <title>2</title>
+    <title>3</title>
     <link href="http://yunzimo.github.io/posts/25490/"/>
     <id>http://yunzimo.github.io/posts/25490/</id>
     <published>2018-11-24T11:11:19.000Z</published>
-    <updated>2018-11-25T07:50:14.816Z</updated>
+    <updated>2018-11-25T07:50:36.025Z</updated>
     
-    <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>十个人欺负一个人是欺凌。 一百个人欺负一个人是欺凌。 一万个人欺负一个人。是正义…</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>人间惆怅客，互不投机半句多.</p></blockquote>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;十个人欺负一个人是欺凌。 一百个人欺负一个人是欺凌。 一万个人欺负一个人。是正义…&lt;/p&gt;
+        &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;人间惆怅客，互不投机半句多.&lt;/p&gt;
 &lt;/blockquote&gt;
 
       
@@ -400,19 +386,19 @@
   </entry>
   
   <entry>
-    <title>3</title>
+    <title>2</title>
     <link href="http://yunzimo.github.io/posts/25490/"/>
     <id>http://yunzimo.github.io/posts/25490/</id>
     <published>2018-11-24T11:11:19.000Z</published>
-    <updated>2018-11-25T07:50:36.025Z</updated>
+    <updated>2018-11-25T07:50:14.816Z</updated>
     
-    <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>人间惆怅客，互不投机半句多.</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>十个人欺负一个人是欺凌。 一百个人欺负一个人是欺凌。 一万个人欺负一个人。是正义…</p></blockquote>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;人间惆怅客，互不投机半句多.&lt;/p&gt;
+        &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;十个人欺负一个人是欺凌。 一百个人欺负一个人是欺凌。 一万个人欺负一个人。是正义…&lt;/p&gt;
 &lt;/blockquote&gt;
 
       
@@ -498,6 +484,32 @@
     
     
       <category term="电影" scheme="http://yunzimo.github.io/tags/%E7%94%B5%E5%BD%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>６</title>
+    <link href="http://yunzimo.github.io/posts/23489/"/>
+    <id>http://yunzimo.github.io/posts/23489/</id>
+    <published>2018-11-24T10:31:57.000Z</published>
+    <updated>2018-12-07T12:03:08.313Z</updated>
+    
+    <content type="html"><![CDATA[<p>  沉默时我感到充实，当我开口的时候，我感到了空虚。 ——鲁迅 《野草》</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;  沉默时我感到充实，当我开口的时候，我感到了空虚。 ——鲁迅 《野草》&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="日志" scheme="http://yunzimo.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="网易评论" scheme="http://yunzimo.github.io/tags/%E7%BD%91%E6%98%93%E8%AF%84%E8%AE%BA/"/>
     
   </entry>
   
